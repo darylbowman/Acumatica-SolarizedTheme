@@ -12,7 +12,7 @@ The theme is technically a blend of both light and dark theme colors.
 
 ### Individual Customization Project
 * 20r2
-  * [SolarizedBlendTheme.zip](https://github.com/beardedmogul/Acumatica-SolarizedTheme/raw/master/20r2/20r2/SolarizedBlendTheme.zip)
+  * [SolarizedBlendTheme.zip](https://github.com/beardedmogul/Acumatica-SolarizedTheme/raw/20r2/20r2/SolarizedBlendTheme.zip)
 
 ### Screenshot in 20R2
 ![screenshot](/20r2/theme.png)
