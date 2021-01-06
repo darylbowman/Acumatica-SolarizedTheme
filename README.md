@@ -16,3 +16,6 @@ The theme is technically a blend of both light and dark theme colors.
 
 ### Screenshot in 20R2
 ![screenshot](/20r2/theme.png) 
+
+Note:
+It's not perfect. There are a few limitations outside of my control, but I welcome feedback and suggestions.
