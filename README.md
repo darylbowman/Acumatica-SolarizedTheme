@@ -1,6 +1,8 @@
 # Acumatica-SolarizedTheme
 > ### An Acumatica theme using Ethan Schoonover's [Solarized](https://ethanschoonover.com/solarized/) palette
 
+It is ideal for environments such as manufacturing where a traditional light theme may be too bright and a dark theme would too dark or draw undue attention to dusty monitors.
+
 The theme is technically a blend of both light and dark theme colors.
 
 ## To get this functionality:
