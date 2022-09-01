@@ -1,3 +1,5 @@
+> **Warning**  By using my customization projects or code thereof, you accept all responsibility for any outcome. It is provided AS IS with no guarantees of any kind.
+
 # Acumatica-SolarizedTheme
 > ### An Acumatica theme using Ethan Schoonover's [Solarized](https://ethanschoonover.com/solarized/) palette
 
